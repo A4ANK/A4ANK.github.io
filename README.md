@@ -1,2 +1,2 @@
 # web-app_1.0.0
-Web-app on node.js
+Web-app based on HTML & CSS.
